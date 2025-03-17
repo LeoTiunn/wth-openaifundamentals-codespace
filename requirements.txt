@@ -17,4 +17,3 @@ scipy
 datasets
 evaluate
 # numpy==1.23.1
-
